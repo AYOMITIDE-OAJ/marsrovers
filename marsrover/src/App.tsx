@@ -63,7 +63,7 @@ class App extends React.Component {
     position = position.split('').join(' ');
     return (
       <div className={'app'}>
-                <h1 className={'app-name'}>Mars Rover in JavaScript / React</h1>
+                <h1 className={'app-name'}>Mars Rover in Typescript / React</h1>
                 <a className={'source'} href={'https://github.com/AYOMITIDE-OAJ/marsrovers'}
                    title={'Source code for Mars Rover in Typescript / React'}>Source</a>
                 <div className={`control-panel`}>
